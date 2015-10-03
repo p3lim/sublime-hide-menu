@@ -1,3 +1,4 @@
-### Sublime Hide Menu
+### Sublime No Menu
 
-This is just a small plugin that will hide the menu for new windows.
+This is a small plugin that will hide the menu for new windows.  
+This is simply to compensate for the default "View > Hide Menu" only working on the current window.
