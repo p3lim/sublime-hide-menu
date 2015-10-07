@@ -1,0 +1,8 @@
+This plugin was taken over to improve the functionality.
+
+Main differences:
+
+- Instead of trying to prevent the menu from showing on startup, the user can use the "View > Hide Menu" option.
+- This plugin will prevent the menu from being shown on new windows, essentially hiding the menu forever.
+
+Because of the take-over and the changes, this version is flagged as version 2.0.0.
