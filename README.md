@@ -18,5 +18,5 @@ The user is still able to show/hide the menu on a per-window basis.
 
 1. Click the `Preferences > Browse Packages` menu.
 2. Open up a terminal and execute the following:
- - `git clone https://github.com/p3lim/sublime-hide-menu Hide\ Menu`
+    - `git clone https://github.com/p3lim/sublime-hide-menu Hide\ Menu`
 3. Restart Sublime Text.
