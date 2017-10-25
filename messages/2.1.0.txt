@@ -1,0 +1,4 @@
+Changes in 2.1.0:
+
+- Plugin will no longer load on OSX systems
+- Uses proper API to hide the menu
